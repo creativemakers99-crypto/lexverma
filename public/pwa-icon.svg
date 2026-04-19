@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Deep Navy Background -->
+  <rect width="512" height="512" fill="#0b1f3a" rx="100"/>
+  
+  <!-- Outer Gold Shield / Hexagon -->
+  <path d="M256 70 L400 150 L400 360 L256 440 L112 360 L112 150 Z" fill="none" stroke="#D4AF37" stroke-width="16" stroke-linejoin="round"/>
+  
+  <!-- Golden Scale Base -->
+  <path d="M256 160 L256 360" stroke="#D4AF37" stroke-width="14" stroke-linecap="round"/>
+  <path d="M200 360 L312 360" stroke="#D4AF37" stroke-width="14" stroke-linecap="round"/>
+  
+  <!-- Scale Arm -->
+  <path d="M150 200 L362 200" stroke="#D4AF37" stroke-width="14" stroke-linecap="round"/>
+  
+  <!-- Hanging Bowls (Left & Right) -->
+  <path d="M150 200 L120 280 L180 280 Z" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M362 200 L332 280 L392 280 Z" fill="none" stroke="#D4AF37" stroke-width="10" stroke-linejoin="round"/>
+  
+  <!-- Letter L (LexVerma) -->
+  <text x="256" y="270" fill="white" font-family="serif" font-size="70" font-weight="bold" text-anchor="middle" dy=".3em">L&amp;A</text>
+</svg>
